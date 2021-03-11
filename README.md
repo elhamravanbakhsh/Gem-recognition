@@ -10,4 +10,6 @@ dataset is available at:
 https://www.kaggle.com/lsind18/gemstones-images
 please download dataset and put the address at train_dir and test_dir. 
 
-
+## Models
+Change net variable in code to try different models.
+https://pytorch.org/vision/stable/models.html
